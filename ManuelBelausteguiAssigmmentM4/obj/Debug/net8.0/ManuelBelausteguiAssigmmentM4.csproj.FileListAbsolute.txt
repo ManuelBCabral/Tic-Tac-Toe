@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\bin\Debug\net8.0\ManuelBelausteguiAssigmmentM4.exe
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\bin\Debug\net8.0\ManuelBelausteguiAssigmmentM4.deps.json
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\bin\Debug\net8.0\ManuelBelausteguiAssigmmentM4.runtimeconfig.json
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\bin\Debug\net8.0\ManuelBelausteguiAssigmmentM4.dll
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\bin\Debug\net8.0\ManuelBelausteguiAssigmmentM4.pdb
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ManuelBelausteguiAssigmmentM4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ManuelBelausteguiAssigmmentM4.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ManuelBelausteguiAssigmmentM4.AssemblyInfo.cs
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ManuelBelausteguiAssigmmentM4.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ManuelBelausteguiAssigmmentM4.dll
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\refint\ManuelBelausteguiAssigmmentM4.dll
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ManuelBelausteguiAssigmmentM4.pdb
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ManuelBelausteguiAssigmmentM4.genruntimeconfig.cache
+C:\Users\manue\source\repos\C#NET\ManuelBelausteguiAssigmmentM4\obj\Debug\net8.0\ref\ManuelBelausteguiAssigmmentM4.dll

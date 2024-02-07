@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ManuelBelausteguiAssigmmentM4/1.0.0": {
+        "runtime": {
+          "ManuelBelausteguiAssigmmentM4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManuelBelausteguiAssigmmentM4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
